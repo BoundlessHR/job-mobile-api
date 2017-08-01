@@ -12,11 +12,11 @@ The Job Board mobile application will be used by your Users (Job Seekers) to per
 
 ## Technical details
 
-You mobile application should be built on Ionic Framework, and consume Akhtaboot's public jobs API.
+Your mobile application should be built on Ionic Framework, and consume Akhtaboot's public jobs API.
 
 ### Akhtaboot public jobs API
 
-The public API supporst X actions:
+The public API supporst these actions:
 
 - Index:
 
@@ -63,8 +63,6 @@ The public API supporst X actions:
 ### Bonus task (NOT mandatory)
 
 - Implement more filters using the API.
-- Allow users to signup.
-- Implement search for Jobs by title or creation date.
 - Allow users to signup and upload CVs through your application.
 
 ## Review process
